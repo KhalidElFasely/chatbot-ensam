@@ -1,0 +1,28 @@
+# Secrets: never commit real keys (the template .env.example IS committed)
+.env
+.env.*
+!.env.example
+
+# Virtual environments (recreate with: py -m venv .venv)
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Tool / editor / OS clutter
+.gradio/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and generated evaluation output
+*.log
+eval/results.md
+
+# Note: data/pages.jsonl and data/index/ are tracked on purpose (~1 MB),
+# so a fresh clone can run app.py without re-scraping or re-indexing.

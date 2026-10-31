@@ -1,0 +1,12 @@
+{"question": "Quelles sont les filières d'ingénieur proposées ?", "expect_url": "/filieres", "in_scope": true}
+{"question": "Présente-moi l'ENSAM Casablanca.", "expect_url": "/presentation", "in_scope": true}
+{"question": "Que dit le mot du directeur ?", "expect_url": "/mot-du-directeur", "in_scope": true}
+{"question": "Quels sont les départements de l'école ?", "expect_url": "/departements", "in_scope": true}
+{"question": "Quelles sont les équipes de recherche du laboratoire ?", "expect_url": "/laboratoire", "in_scope": true}
+{"question": "Comment faire une pré-candidature ?", "expect_url": "/pre-condidature", "in_scope": true}
+{"question": "Quelles sont les dernières actualités de l'école ?", "expect_url": "/article", "in_scope": true}
+{"question": "C'est quoi l'option EPEI ?", "expect_url": "/filieres", "in_scope": true}
+{"question": "What engineering programs does the school offer?", "expect_url": "/filieres", "in_scope": true}
+{"question": "Quelle est la capitale de l'Australie ?", "in_scope": false}
+{"question": "Écris-moi un poème sur la mer.", "in_scope": false}
+{"question": "Quel est le meilleur club de football au Maroc ?", "in_scope": false}
